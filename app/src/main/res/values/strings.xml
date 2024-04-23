@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">RoomKeeper</string>
+
+    <string name="first_slide">Find Home Help Fast</string>
+    <string name="second_slide">Discover Household Pros!</string>
+    <string name="third_slide">Efficient Home Assistance!</string>
+    <string name="forth_slide">Home Tasks Made Easy</string>
+    <string name="description">Welcome to Care-Easy,
+        \n
+        the ultimate solution for all your home tasks!
+        \n Whether you need a skilled cook to prepare delicious meals,
+        \n a caring babysitter for your little ones, a meticulous house
+        \n cleaner to keep your space spotless, or someone reliable
+        \n to handle your laundry, our app connects you with
+        \n experienced professionals in just a few taps.</string>
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "462823168452",
+    "project_id": "roomkeeper-70b69",
+    "storage_bucket": "roomkeeper-70b69.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:462823168452:android:580cbf2c763c4e3bf7ec91",
+        "android_client_info": {
+          "package_name": "com.rony.roomkeeper"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCnibwYjamLQH-iUOHI7RziZKFgo0v8-jA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
