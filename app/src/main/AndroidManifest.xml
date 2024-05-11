@@ -13,6 +13,12 @@
         android:theme="@style/Theme.RoomKeeper"
         tools:targetApi="31">
         <activity
+            android:name=".HomeFragment"
+            android:exported="false" />
+        <activity
+            android:name=".ProfileActivity"
+            android:exported="false" />
+        <activity
             android:name=".PreRegistrationActivity"
             android:exported="false" />
         <activity
